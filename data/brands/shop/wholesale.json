@@ -168,11 +168,9 @@
         "exclude": ["th"]
       },
       "tags": {
-        "brand:en": "Makro",
-        "brand:th": "แม็คโคร",
+        "brand": "Makro",
         "brand:wikidata": "Q704606",
-        "name:en": "Makro",
-        "name:th": "แม็คโคร",
+        "name": "Makro",
         "shop": "wholesale"
       }
     },
