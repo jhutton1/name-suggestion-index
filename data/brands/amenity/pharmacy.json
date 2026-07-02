@@ -2286,6 +2286,18 @@
       }
     },
     {
+      "displayName": "Hipermaxi",
+      "id": "hipermaxi-552afd",
+      "locationSet": {"include": ["bo"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Hipermaxi",
+        "brand:wikidata": "Q81968262",
+        "healthcare": "pharmacy",
+        "name": "Hipermaxi"
+      }
+    },
+    {
       "displayName": "Hippocrates",
       "id": "hippocrates-52cb11",
       "locationSet": {"include": ["md"]},
