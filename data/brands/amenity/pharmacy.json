@@ -549,6 +549,7 @@
       "id": "benu-1cd44c",
       "locationSet": {
         "include": [
+          "bg",
           "ch",
           "cz",
           "ee",
@@ -571,20 +572,6 @@
         "amenity": "pharmacy",
         "brand": "Benu",
         "brand:wikidata": "Q62562792",
-        "healthcare": "pharmacy",
-        "name": "Benu"
-      }
-    },
-    {
-      "displayName": "Benu България",
-      "id": "benu-768624",
-      "locationSet": {"include": ["bg"]},
-      "tags": {
-        "amenity": "pharmacy",
-        "brand": "Benu",
-        "brand:bg": "Бену",
-        "brand:en": "Benu",
-        "brand:wikidata": "Q123669148",
         "healthcare": "pharmacy",
         "name": "Benu"
       }
