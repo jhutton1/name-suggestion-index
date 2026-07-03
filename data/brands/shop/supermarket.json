@@ -8990,6 +8990,18 @@
       }
     },
     {
+      "displayName": "Torba",
+      "id": "torba-94881c",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["торба"],
+      "tags": {
+        "brand": "Torba",
+        "brand:wikidata": "Q140402744",
+        "name": "Torba",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Tottus",
       "id": "tottus-b9e971",
       "locationSet": {"include": ["cl", "pe"]},

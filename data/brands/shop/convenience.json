@@ -7308,17 +7308,6 @@
       }
     },
     {
-      "displayName": "Домашній маркет",
-      "id": "06a7d6-023e9c",
-      "locationSet": {"include": ["ua"]},
-      "tags": {
-        "brand": "Домашній маркет",
-        "brand:wikidata": "Q131607469",
-        "name": "Домашній маркет",
-        "shop": "convenience"
-      }
-    },
-    {
       "displayName": "ДорОрс",
       "id": "dorors-e64bef",
       "locationSet": {"include": ["by"]},
