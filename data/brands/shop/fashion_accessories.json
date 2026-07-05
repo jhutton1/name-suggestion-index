@@ -134,16 +134,6 @@
       }
     },
     {
-      "displayName": "Meli Melo",
-      "locationSet": {"include": ["md", "ro"]},
-      "tags": {
-        "brand": "Meli Melo",
-        "brand:wikidata": "Q134389410",
-        "name": "Meli Melo",
-        "shop": "fashion_accessories"
-      }
-    },
-    {
       "displayName": "MCM",
       "id": "mcm-afbfc9",
       "locationSet": {"include": ["001"]},
@@ -151,6 +141,17 @@
         "brand": "MCM",
         "brand:wikidata": "Q835487",
         "name": "MCM",
+        "shop": "fashion_accessories"
+      }
+    },
+    {
+      "displayName": "Meli Melo",
+      "id": "melimelo-15582e",
+      "locationSet": {"include": ["md", "ro"]},
+      "tags": {
+        "brand": "Meli Melo",
+        "brand:wikidata": "Q134389410",
+        "name": "Meli Melo",
         "shop": "fashion_accessories"
       }
     },
