@@ -5475,18 +5475,18 @@
       }
     },
     {
-      "displayName": "PTT",
-      "id": "ptt-16b3c2",
+      "displayName": "PTT Station",
+      "id": "pttstation-9536f8",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["pl"]
+        "exclude": ["pl", "th"]
       },
-      "matchNames": ["ptt station"],
+      "matchNames": ["ptt"],
       "tags": {
         "amenity": "fuel",
-        "brand": "PTT",
+        "brand": "PTT Station",
         "brand:wikidata": "Q1810389",
-        "name": "PTT"
+        "name": "PTT Station"
       }
     },
     {
