@@ -2818,6 +2818,22 @@
       }
     },
     {
+      "displayName": "Dodo Pizza",
+      "id": "dodopizza-545f07",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["by", "ge", "kz", "ru"]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Dodo Pizza",
+        "brand:wikidata": "Q61949318",
+        "cuisine": "pizza",
+        "name": "Dodo Pizza",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Dog Haus",
       "id": "doghaus-4d2ff4",
       "locationSet": {"include": ["us"]},
