@@ -2055,7 +2055,7 @@
     {
       "displayName": "Costcutter",
       "id": "costcutter-986a24",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb", "ie"]},
       "matchNames": ["costcutters"],
       "tags": {
         "brand": "Costcutter",
