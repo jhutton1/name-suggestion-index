@@ -90,6 +90,7 @@
     },
     {
       "displayName": "Land Transport Authority",
+      "id": "landtransportauthority-a99ece",
       "locationSet": {"include": ["sg"]},
       "tags": {
         "access": "yes",

@@ -12,12 +12,6 @@
   },
   "items": [
     {
-      "templateSource": "operators/leisure/park",
-      "templateTags": {
-        "leisure": "nature_reserve"
-      }
-    },
-    {
       "displayName": "Audubon",
       "id": "audubon-b9cbaf",
       "locationSet": {"include": ["us"]},

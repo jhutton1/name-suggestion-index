@@ -903,7 +903,7 @@
     },
     {
       "displayName": "Vodafone",
-      "id": "vodafone-bfcfa8",
+      "id": "vodafone-14289d",
       "locationSet": {
         "include": ["de", "es", "gr", "it"]
       },
@@ -916,10 +916,9 @@
     },
     {
       "displayName": "VodafoneZiggo",
-      "locationSet": {
-        "include": ["nl"]
-      },
-      "matchNames": ["Vodafone"],
+      "id": "vodafoneziggo-c62d58",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["vodafone"],
       "tags": {
         "brand": "VodafoneZiggo",
         "brand:wikidata": "Q55640416",
