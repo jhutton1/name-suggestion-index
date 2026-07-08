@@ -28123,7 +28123,7 @@
       }
     },
     {
-      "displayName": "London Borough of Richmond Upon Thames",
+      "displayName": "London Borough of Richmond upon Thames",
       "id": "londonboroughofrichmonduponthames-657027",
       "locationSet": {
         "include": ["gb-lon.geojson"]
@@ -28133,7 +28133,7 @@
       ],
       "tags": {
         "amenity": "school",
-        "operator": "London Borough of Richmond Upon Thames",
+        "operator": "London Borough of Richmond upon Thames",
         "operator:short": "LBRUT",
         "operator:type": "government",
         "operator:wikidata": "Q32515"
