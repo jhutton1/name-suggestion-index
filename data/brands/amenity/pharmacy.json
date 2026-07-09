@@ -2321,6 +2321,17 @@
       }
     },
     {
+      "displayName": "Hygieia",
+      "id": "hygieia-cf61fb",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Hygieia",
+        "brand:wikidata": "Q122906354",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
       "displayName": "I.D.A.",
       "id": "ida-b56451",
       "locationSet": {"include": ["ca"]},
