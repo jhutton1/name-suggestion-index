@@ -2393,7 +2393,7 @@
       }
     },
     {
-      "displayName": "Kaufland",
+      "displayName": "Kaufland (България)",
       "locationSet": {"include": ["bg"]},
       "tags": {
         "amenity": "toilets",
