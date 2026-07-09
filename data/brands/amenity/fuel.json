@@ -2050,6 +2050,17 @@
       }
     },
     {
+      "displayName": "Effo",
+      "id": "effo-5cb63b",
+      "locationSet": {"include": ["fo"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Effo",
+        "brand:wikidata": "Q1296301",
+        "name": "Effo"
+      }
+    },
+    {
       "displayName": "EG Australia",
       "id": "egaustralia-9ed9c0",
       "locationSet": {"include": ["au"]},
@@ -4182,6 +4193,17 @@
         "amenity": "fuel",
         "brand": "Maes",
         "name": "Maes"
+      }
+    },
+    {
+      "displayName": "Magn",
+      "id": "magn-5cb63b",
+      "locationSet": {"include": ["fo"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Magn",
+        "brand:wikidata": "Q140449576",
+        "name": "Magn"
       }
     },
     {
