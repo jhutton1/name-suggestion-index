@@ -1996,8 +1996,8 @@
     },
     {
       "displayName": "Camicissima",
-      "id": "camicissima-d72191",
-      "locationSet": {"include": ["it","ro"]},
+      "id": "camicissima-5ee29c",
+      "locationSet": {"include": ["it", "ro"]},
       "tags": {
         "brand": "Camicissima",
         "brand:wikidata": "Q140471177",

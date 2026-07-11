@@ -9407,13 +9407,13 @@
     },
     {
       "displayName": "Volta",
-      "id": "volta-a37xv2",
-      "locationSet": { "include": ["pt"] },
+      "id": "volta-416028",
+      "locationSet": {"include": ["pt"]},
       "tags": {
         "amenity": "recycling",
-        "recycling_type": "reverse_vending_machine",
         "operator": "Volta",
-        "operator:wikidata": "Q138952882"
+        "operator:wikidata": "Q138952882",
+        "recycling_type": "reverse_vending_machine"
       }
     },
     {
