@@ -1524,6 +1524,17 @@
       }
     },
     {
+      "displayName": "Walmart Energy",
+      "id": "walmartenergy-5598dd",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Walmart Energy",
+        "brand:wikidata": "Q140482254",
+        "name": "Walmart Energy"
+      }
+    },
+    {
       "displayName": "We Drive Solar",
       "id": "wedrivesolar-2a8f9b",
       "locationSet": {"include": ["nl"]},
