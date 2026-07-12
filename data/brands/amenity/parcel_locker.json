@@ -1310,6 +1310,7 @@
       "locationSet": {"include": ["ua"]},
       "matchNames": [
         "epicentr k",
+        "epitzentr",
         "epizentr",
         "епіцентр"
       ],
