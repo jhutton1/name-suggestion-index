@@ -2428,10 +2428,10 @@
     },
     {
       "displayName": "Esso",
-      "id": "esso-053960",
+      "id": "esso-6ac50e",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["br", "jp", "pl", "th", "ar"]
+        "exclude": ["ar", "br", "jp", "pl", "th"]
       },
       "matchNames": [
         "esso canada",
@@ -7430,6 +7430,18 @@
       }
     },
     {
+      "displayName": "Voy con Energía",
+      "id": "voyconenergia-dca697",
+      "locationSet": {"include": ["ar"]},
+      "matchNames": ["voy"],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Voy con Energía",
+        "brand:wikidata": "Q140480520",
+        "name": "Voy con Energía"
+      }
+    },
+    {
       "displayName": "Waitomo",
       "id": "waitomo-088dbb",
       "locationSet": {"include": ["nz"]},
@@ -9354,17 +9366,6 @@
         "operator": "福懋興業股份有限公司",
         "operator:en": "Formosa Taffeta Co.,Ltd.",
         "operator:zh": "福懋興業股份有限公司"
-      }
-    },
-    {
-      "displayName": "Voy con Energía",
-      "locationSet": {"include": ["ar"]},
-      "matchNames": ["Voy"],
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Voy con Energía",
-        "brand:wikidata": "Q140480520",
-        "name": "Voy con Energía"
       }
     }
   ]

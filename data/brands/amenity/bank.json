@@ -7672,49 +7672,6 @@
       }
     },
     {
-      "displayName": "Volksbank Mittelhessen",
-      "locationSet": {
-        "include": [
-          "de-he.geojson",
-          "de-nw.geojson"
-        ]
-      },
-      "tags": {
-        "amenity": "bank",
-        "brand": "Volksbank Mittelhessen",
-        "brand:wikidata": "Q2531746",
-        "name": "Volksbank Mittelhessen"
-      }
-    },
-         {
-      "displayName": "Sparkasse Oberhessen",
-      "locationSet": {
-        "include": [
-          "de-he.geojson"
-        ]
-      },
-      "tags": {
-        "amenity": "bank",
-        "brand": "Sparkasse Oberhessen",
-        "brand:wikidata": "Q1554198",
-        "name": "Sparkasse Oberhessen"
-      }
-    },
-             {
-      "displayName": "Taunus Sparkasse",
-      "locationSet": {
-        "include": [
-          "de-he.geojson"
-        ]
-      },
-      "tags": {
-        "amenity": "bank",
-        "brand": "Taunus Sparkasse",
-        "brand:wikidata": "Q1737542",
-        "name": "Taunus Sparkasse"
-      }
-    },
-    {
       "displayName": "Freedom Bank",
       "id": "freedombank-033b31",
       "locationSet": {"include": ["kz"]},
@@ -13188,6 +13145,19 @@
       }
     },
     {
+      "displayName": "Sparkasse Oberhessen",
+      "id": "sparkasseoberhessen-9ffcae",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Sparkasse Oberhessen",
+        "brand:wikidata": "Q1554198",
+        "name": "Sparkasse Oberhessen"
+      }
+    },
+    {
       "displayName": "Sparkassen",
       "id": "sparkassen-f2a422",
       "locationSet": {
@@ -13528,6 +13498,19 @@
         "brand": "Tatra banka",
         "brand:wikidata": "Q1718069",
         "name": "Tatra banka"
+      }
+    },
+    {
+      "displayName": "Taunus Sparkasse",
+      "id": "taunussparkasse-9ffcae",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Taunus Sparkasse",
+        "brand:wikidata": "Q1737542",
+        "name": "Taunus Sparkasse"
       }
     },
     {
@@ -14700,6 +14683,22 @@
         "brand": "Volksbank Köln Bonn eG",
         "brand:wikidata": "Q41680844",
         "name": "Volksbank Köln Bonn eG"
+      }
+    },
+    {
+      "displayName": "Volksbank Mittelhessen",
+      "id": "volksbankmittelhessen-4ab284",
+      "locationSet": {
+        "include": [
+          "de-he.geojson",
+          "de-nw.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Volksbank Mittelhessen",
+        "brand:wikidata": "Q2531746",
+        "name": "Volksbank Mittelhessen"
       }
     },
     {
