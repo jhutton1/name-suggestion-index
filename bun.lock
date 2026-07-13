@@ -9,13 +9,13 @@
         "@types/diacritics": "^1.3.3",
         "@types/geojson": "^7946.0.16",
         "diacritics": "^1.3.0",
-        "fast-xml-builder": "^1.2.0",
+        "fast-xml-builder": "^1.2.1",
       },
       "devDependencies": {
         "@eslint/js": "^10.0.1",
         "@fortawesome/free-brands-svg-icons": "^7.3.0",
         "@fortawesome/free-solid-svg-icons": "^7.3.0",
-        "@fortawesome/react-fontawesome": "^3.3.1",
+        "@fortawesome/react-fontawesome": "^3.4.0",
         "@ideditor/nsi-collector": "1.0.20250817",
         "@mapbox/geojson-area": "^0.2.2",
         "@mapbox/geojson-rewind": "^0.5.2",
@@ -36,9 +36,9 @@
         "react-router-dom": "^7.18.1",
         "safe-regex": "^2.1.1",
         "typescript": "^6.0.3",
-        "typescript-eslint": "^8.62.1",
-        "wikibase-edit": "^8.1.2",
-        "wikibase-sdk": "^11.6.3",
+        "typescript-eslint": "^8.63.0",
+        "wikibase-edit": "^8.1.4",
+        "wikibase-sdk": "^11.6.4",
       },
     },
   },
@@ -555,9 +555,9 @@
 
     "which-typed-array": ["which-typed-array@1.1.20", "", { "dependencies": { "available-typed-arrays": "^1.0.7", "call-bind": "^1.0.8", "call-bound": "^1.0.4", "for-each": "^0.3.5", "get-proto": "^1.0.1", "gopd": "^1.2.0", "has-tostringtag": "^1.0.2" } }, "sha512-LYfpUkmqwl0h9A2HL09Mms427Q1RZWuOHsukfVcKRq9q95iQxdw0ix1JQrqbcDR9PH1QDwf5Qo8OZb5lksZ8Xg=="],
 
-    "wikibase-edit": ["wikibase-edit@8.1.2", "", { "dependencies": { "@types/lodash-es": "^4.17.12", "cross-fetch": "^4.1.0", "crypto-js": "^4.1.1", "lodash-es": "^4.17.21", "oauth-1.0a": "^2.2.6", "type-fest": "^4.41.0", "typescript": "^5.9.2", "wikibase-sdk": "^11.3.1" } }, "sha512-HZWpE8sqpuclK3hM/0ooeYo1TFZjA9M8JV3poeDsemGHGBvqSL5mA/DNzJd/WD4T+c0VSfKhjH9c3ina7uTODA=="],
+    "wikibase-edit": ["wikibase-edit@8.1.4", "", { "dependencies": { "@types/lodash-es": "^4.17.12", "cross-fetch": "^4.1.0", "crypto-js": "^4.1.1", "lodash-es": "^4.17.21", "oauth-1.0a": "^2.2.6", "type-fest": "^4.41.0", "typescript": "^6.0.3", "wikibase-sdk": "^11.6.4" } }, "sha512-KtsBOo4lvpH5P7YlpevkvenB0GqjIsrsdVURc421ahqb1lgqWEduyE24yij/iMoWk9TPakOJncQGMOsU/za9lQ=="],
 
-    "wikibase-sdk": ["wikibase-sdk@11.6.3", "", {}, "sha512-WH62eiNcXryD9ACeR8WMFNYDFpOtII5JqpbshghJ82c8jnoZmObHei0I/cxhx0kiefa/NY0DVQdBHPyvGfjswg=="],
+    "wikibase-sdk": ["wikibase-sdk@11.6.4", "", {}, "sha512-XnVa5j2Ijbsk/didc8HO4gW6fG8NcIVmGXci6sYzSKdvMPjb2YiLnd20iT24upQEsKa4Wzwbr2OXcQmj30VPEQ=="],
 
     "word-wrap": ["word-wrap@1.2.5", "", {}, "sha512-BN22B5eaMMI9UMtjrGd5g5eCYPpCPDUy0FJXbYsaT5zYxjFOckS53SQDE3pWkVoWpHXVb3BrYcEN4Twa55B5cA=="],
 
@@ -582,10 +582,6 @@
     "eslint-plugin-import/minimatch": ["minimatch@3.1.5", "", { "dependencies": { "brace-expansion": "^1.1.7" } }, "sha512-VgjWUsnnT6n+NUk6eZq77zeFdpW2LWDzP6zFGrCbHXiYNul5Dzqk2HHQ5uFH2DNW5Xbp8+jVzaeNt94ssEEl4w=="],
 
     "tsconfig-paths/json5": ["json5@1.0.2", "", { "dependencies": { "minimist": "^1.2.0" }, "bin": { "json5": "lib/cli.js" } }, "sha512-g1MWMLBiz8FKi1e4w0UyVL3w+iJceWAFBAaBnnGKOpNa5f8TLktkbre1+s6oICydWAm+HRUGTmI+//xv2hvXYA=="],
-
-    "wikibase-edit/typescript": ["typescript@5.9.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw=="],
-
-    "wikibase-edit/wikibase-sdk": ["wikibase-sdk@11.6.1", "", {}, "sha512-uM6WcQhy0bsLs510j1QPmmI2bW4L2t7bF1vtZP0wFkx3PClYDFOXJvnWB43s2H1H0vnfuzZa5CcahbvATg27kQ=="],
 
     "eslint-plugin-import/minimatch/brace-expansion": ["brace-expansion@1.1.14", "", { "dependencies": { "balanced-match": "^1.0.0", "concat-map": "0.0.1" } }, "sha512-MWPGfDxnyzKU7rNOW9SP/c50vi3xrmrua/+6hfPbCS2ABNWfx24vPidzvC7krjU/RTo235sV776ymlsMtGKj8g=="],
 
