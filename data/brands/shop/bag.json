@@ -124,7 +124,7 @@
     {
       "displayName": "Kipling",
       "id": "kipling-bfaa54",
-      "locationSet": {"include": ["be", "gb"]},
+      "locationSet": {"include": ["be", "gb", "us"]},
       "tags": {
         "brand": "Kipling",
         "brand:wikidata": "Q6414641",
