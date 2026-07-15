@@ -306,6 +306,17 @@
         "brand:zh-Hant": "香港童軍總會",
         "club": "scout"
       }
+    },
+    {
+      "displayName": "Scouts de Argentina Asociación Civil",
+      "locationSet": {"include": ["ar"]},
+      "matchNames": ["Scouts de Argentina", "SAAC"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Scouts de Argentina Asociación Civil",
+        "brand:wikidata": "Q7438649",
+        "club": "scout"
+      }
     }
   ]
 }
