@@ -1448,6 +1448,19 @@
       }
     },
     {
+      "displayName": "Naot",
+      "id": "naot-25085b",
+      "locationSet": {
+        "include": ["ca", "il", "jp", "us"]
+      },
+      "tags": {
+        "brand": "Naot",
+        "brand:wikidata": "Q6964738",
+        "name": "Naot",
+        "shop": "shoes"
+      }
+    },
+    {
       "displayName": "Naturalizer",
       "id": "naturalizer-16a72e",
       "locationSet": {
@@ -2906,16 +2919,6 @@
         "operator:en": "Mercuries Group",
         "operator:wikidata": "Q10865578",
         "operator:zh": "三商企業集團",
-        "shop": "shoes"
-      }
-    },
-    {
-      "displayName": "Naot",
-      "locationSet": {"include": ["il","us","ca","jp"]},
-      "tags": {
-        "brand": "Naot",
-        "brand:wikidata": "Q6964738",
-        "name": "Naot",
         "shop": "shoes"
       }
     }
