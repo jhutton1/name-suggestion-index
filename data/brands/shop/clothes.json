@@ -5709,8 +5709,9 @@
     },
     {
       "displayName": "Jockey",
-      "id": "jockey-0a21d9",
-      "locationSet": {"include": ["us"]},
+      "id": "jockey-d3360d",
+      "locationSet": {"include": ["in", "us"]},
+      "preserveTags": ["^name"],
       "tags": {
         "brand": "Jockey",
         "brand:wikidata": "Q534235",
