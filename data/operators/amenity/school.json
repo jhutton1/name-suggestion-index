@@ -26704,13 +26704,13 @@
       }
     },
     {
-      "displayName": "Learning In Harmony Multi Academy Trust",
+      "displayName": "Learning in Harmony Multi Academy Trust",
       "id": "learninginharmonymultiacademytrust-7a837c",
       "locationSet": {"include": ["gb-eng"]},
       "matchNames": ["learning in harmony trust"],
       "tags": {
         "amenity": "school",
-        "operator": "Learning In Harmony Multi Academy Trust",
+        "operator": "Learning in Harmony Multi Academy Trust",
         "operator:type": "private",
         "operator:wikidata": "Q122616290"
       }
