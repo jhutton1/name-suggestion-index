@@ -6311,10 +6311,10 @@
     },
     {
       "displayName": "Pizza Hut",
-      "id": "pizzahut-ce6bab",
+      "id": "pizzahut-03f000",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["cn", "tw", "kr"]
+        "exclude": ["cn", "kr", "tw"]
       },
       "tags": {
         "amenity": "restaurant",

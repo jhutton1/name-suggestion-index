@@ -135,23 +135,6 @@
       }
     },
     {
-      "displayName": "피자헛",
-      "locationSet": {"include": ["kr"]},
-      "matchNames": ["Pizza Hut Delivery", "Pizza Hut Express"],
-      "tags": {
-        "amenity": "fast_food",
-        "brand": "피자헛",
-        "brand:en": "Pizza Hut",
-        "brand:ko": "피자헛",
-        "brand:wikidata": "Q191615",
-        "cuisine": "pizza",
-        "name": "피자헛",
-        "name:en": "Pizza Hut",
-        "name:ko": "피자헛",
-        "takeaway": "yes"
-      }
-    },
-    {
       "displayName": "A&W (Malaysia)",
       "id": "aandw-627b23",
       "locationSet": {"include": ["my"]},
@@ -8435,7 +8418,7 @@
     },
     {
       "displayName": "Pizza Hut Delivery",
-      "id": "pizzahutdelivery-e0c6c1",
+      "id": "pizzahutdelivery-8b0e85",
       "locationSet": {
         "include": ["001"],
         "exclude": ["fr", "gb", "kr"]
@@ -8466,7 +8449,7 @@
     },
     {
       "displayName": "Pizza Hut Express",
-      "id": "pizzahutexpress-658eea",
+      "id": "pizzahutexpress-165c34",
       "locationSet": {
         "include": ["001"],
         "exclude": ["kr"]
@@ -13654,6 +13637,27 @@
         "name": "파파이스",
         "name:en": "Popeyes",
         "name:ko": "파파이스",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "피자헛",
+      "id": "pizzahut-c56583",
+      "locationSet": {"include": ["kr"]},
+      "matchNames": [
+        "pizza hut delivery",
+        "pizza hut express"
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "피자헛",
+        "brand:en": "Pizza Hut",
+        "brand:ko": "피자헛",
+        "brand:wikidata": "Q191615",
+        "cuisine": "pizza",
+        "name": "피자헛",
+        "name:en": "Pizza Hut",
+        "name:ko": "피자헛",
         "takeaway": "yes"
       }
     },

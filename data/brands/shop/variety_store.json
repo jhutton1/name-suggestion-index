@@ -863,17 +863,13 @@
     },
     {
       "displayName": "Sqrups",
-      "id": "Sqrups",
-      "locationSet": {
-        "include": [
-          "es"
-        ]
-      },
+      "id": "sqrups-643a1b",
+      "locationSet": {"include": ["es"]},
       "tags": {
-        "shop": "variety_store",
-        "name": "Sqrups",
         "brand": "Sqrups",
-        "brand:wikidata": "Q135914246"
+        "brand:wikidata": "Q135914246",
+        "name": "Sqrups",
+        "shop": "variety_store"
       }
     },
     {
