@@ -2811,6 +2811,7 @@
       "displayName": "Eurospar",
       "id": "eurospar-4b5e11",
       "locationSet": {"include": ["150"]},
+      "matchNames": ["spar"],
       "tags": {
         "brand": "Eurospar",
         "brand:wikidata": "Q12309283",
