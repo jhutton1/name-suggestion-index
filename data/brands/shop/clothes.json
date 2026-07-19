@@ -8360,14 +8360,14 @@
       }
     },
     {
-      "displayName": "OLYMP",
+      "displayName": "Olymp",
       "id": "olymp-96f120",
       "locationSet": {"include": ["at", "de"]},
       "tags": {
-        "brand": "OLYMP",
+        "brand": "Olymp",
         "brand:wikidata": "Q1415523",
         "clothes": "men",
-        "name": "OLYMP",
+        "name": "Olymp",
         "shop": "clothes"
       }
     },
