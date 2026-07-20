@@ -10,6 +10,17 @@
   },
   "items": [
     {
+      "displayName": "5 Şarj",
+      "id": "5sarj-e7bbbe",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "5 Şarj",
+        "brand:wikidata": "Q135753392",
+        "name": "5 Şarj"
+      }
+    },
+    {
       "displayName": "7-Eleven",
       "id": "7eleven-5598dd",
       "locationSet": {"include": ["us"]},
