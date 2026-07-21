@@ -15,7 +15,6 @@
     {
       "displayName": "Discovery",
       "locationSet": {"include": ["001"]},
-      },
       "tags": {
         "brand": "Discovery",
         "brand:wikidata": "Q140645228",
