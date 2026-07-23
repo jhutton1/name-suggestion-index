@@ -1423,6 +1423,19 @@
       }
     },
     {
+      "displayName": "Cheirin Bão",
+      "id": "cheirinbao-1d07e0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Cheirin Bão",
+        "brand:wikidata": "Q140672648",
+        "cuisine": "coffee_shop",
+        "name": "Cheirin Bão",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Chicha San Chen",
       "id": "chichasanchen-e3839d",
       "locationSet": {
