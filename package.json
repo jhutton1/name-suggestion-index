@@ -1,6 +1,6 @@
 {
   "name": "name-suggestion-index",
-  "version": "7.2.20260717",
+  "version": "7.2.20260723",
   "license": "BSD-3-Clause",
   "description": "Canonical common brand names for OpenStreetMap",
   "homepage": "https://nsi.guide",
@@ -118,9 +118,9 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@fortawesome/free-brands-svg-icons": "^7.3.0",
-    "@fortawesome/free-solid-svg-icons": "^7.3.0",
-    "@fortawesome/react-fontawesome": "^3.4.0",
+    "@fortawesome/free-brands-svg-icons": "^7.3.1",
+    "@fortawesome/free-solid-svg-icons": "^7.3.1",
+    "@fortawesome/react-fontawesome": "^3.5.0",
     "@ideditor/nsi-collector": "1.0.20250817",
     "@mapbox/geojson-area": "^0.2.2",
     "@mapbox/geojson-rewind": "^0.5.2",

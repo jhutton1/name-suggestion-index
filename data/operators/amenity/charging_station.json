@@ -1646,8 +1646,10 @@
     },
     {
       "displayName": "EBERwerk",
-      "id": "eberwerk-76f548",
-      "locationSet": {"include": ["de-by.geojson"]},
+      "id": "eberwerk-259ab2",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
       "tags": {
         "amenity": "charging_station",
         "operator": "EBERwerk",
@@ -2306,11 +2308,11 @@
     },
     {
       "displayName": "Energie Südbayern",
-      "matchNames": ["ESB"],
       "id": "energiesudbayern-259ab2",
       "locationSet": {
         "include": ["de-by.geojson"]
       },
+      "matchNames": ["esb"],
       "tags": {
         "amenity": "charging_station",
         "operator": "Energie Südbayern",

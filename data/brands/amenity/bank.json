@@ -4775,8 +4775,13 @@
     },
     {
       "displayName": "Caixa Popular",
-      "id": "caixapopular-ce59ab",
-      "locationSet": {"include": ["ES-A.geojson", "ES-V.geojson"]},
+      "id": "caixapopular-0e9f21",
+      "locationSet": {
+        "include": [
+          "es-a.geojson",
+          "es-v.geojson"
+        ]
+      },
       "matchNames": ["caja popular"],
       "tags": {
         "amenity": "bank",
@@ -4828,8 +4833,12 @@
     },
     {
       "displayName": "Caja Rural Central",
+      "id": "cajaruralcentral-6e3a9a",
       "locationSet": {
-        "include": ["ES-A.geojson", "ES-MU.geojson"]
+        "include": [
+          "es-a.geojson",
+          "es-mu.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
@@ -4840,8 +4849,15 @@
     },
     {
       "displayName": "Caja Rural de Aragón",
-      "id": "cajaruraldearagon-ce59ab",
-      "locationSet": {"include": ["ES-HU.geojson", "ES-TE.geojson", "ES-Z.geojson", "ES-LO.geojson"]},
+      "id": "cajaruraldearagon-f3483a",
+      "locationSet": {
+        "include": [
+          "es-hu.geojson",
+          "es-lo.geojson",
+          "es-te.geojson",
+          "es-z.geojson"
+        ]
+      },
       "matchNames": ["bantierra"],
       "tags": {
         "amenity": "bank",
@@ -4871,21 +4887,13 @@
       }
     },
     {
-      "displayName": "Caja Rural del Sur",
-      "locationSet": {
-        "include": ["ES-HU.geojson", "ES-SE.geojson", "ES-CA.geojson"]
-      },
-      "tags": {
-        "amenity": "bank",
-        "brand": "Caja Rural del Sur",
-        "brand:wikidata": "Q118719995",
-        "name": "Caja Rural del Sur"
-      }
-    },
-    {
       "displayName": "Caja Rural de Extremadura",
+      "id": "cajaruraldeextremadura-42cd76",
       "locationSet": {
-        "include": ["ES-BA.geojson", "ES-CC.geojson"]
+        "include": [
+          "es-ba.geojson",
+          "es-cc.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
@@ -4896,8 +4904,9 @@
     },
     {
       "displayName": "Caja Rural de Gijón",
+      "id": "cajaruraldegijon-ad89e8",
       "locationSet": {
-        "include": ["ES-O.geojson"]
+        "include": ["es-o.geojson"]
       },
       "tags": {
         "amenity": "bank",
@@ -4908,21 +4917,32 @@
     },
     {
       "displayName": "Caja Rural de Jaén, Barcelona y Madrid",
+      "id": "cajaruraldejaen-5abd1b",
       "locationSet": {
-        "include": ["ES-J.geojson", "ES-CO.geojson"]
+        "include": [
+          "es-co.geojson",
+          "es-j.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
         "brand": "Caja Rural de Jaén",
         "brand:wikidata": "Q18720350",
-        "official_name": "Caja Rural de Jaén, Barcelona y Madrid",
-        "name": "Caja Rural de Jaén"
+        "name": "Caja Rural de Jaén",
+        "official_name": "Caja Rural de Jaén, Barcelona y Madrid"
       }
     },
     {
       "displayName": "Caja Rural de Navarra",
+      "id": "cajaruraldenavarra-5e49be",
       "locationSet": {
-        "include": ["ES-NA.geojson", "ES-VI.geojson", "ES-BI.geojson", "ES-SS.geojson", "ES-LO.geojson"]
+        "include": [
+          "es-bi.geojson",
+          "es-lo.geojson",
+          "es-na.geojson",
+          "es-ss.geojson",
+          "es-vi.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
@@ -4933,8 +4953,13 @@
     },
     {
       "displayName": "Caja Rural de Salamanca",
+      "id": "cajaruraldesalamanca-e35ab7",
       "locationSet": {
-        "include": ["ES-AV.geojson", "ES-SA.geojson", "ES-VA.geojson"]
+        "include": [
+          "es-av.geojson",
+          "es-sa.geojson",
+          "es-va.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
@@ -4945,8 +4970,12 @@
     },
     {
       "displayName": "Caja Rural de Soria",
+      "id": "cajaruraldesoria-31a29d",
       "locationSet": {
-        "include": ["ES-SO.geojson", "ES-LO.geojson"]
+        "include": [
+          "es-lo.geojson",
+          "es-so.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
@@ -4957,8 +4986,12 @@
     },
     {
       "displayName": "Caja Rural de Teruel",
+      "id": "cajaruraldeteruel-fedbe4",
       "locationSet": {
-        "include": ["ES-TE.geojson", "ES-CS.geojson"]
+        "include": [
+          "es-cs.geojson",
+          "es-te.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
@@ -4969,14 +5002,36 @@
     },
     {
       "displayName": "Caja Rural de Zamora",
+      "id": "cajaruraldezamora-e38e4a",
       "locationSet": {
-        "include": ["ES-LE.geojson", "ES-VA.geojson", "ES-ZA.geojson"]
+        "include": [
+          "es-le.geojson",
+          "es-va.geojson",
+          "es-za.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
         "brand": "Caja Rural de Zamora",
         "brand:wikidata": "Q118719984",
         "name": "Caja Rural de Zamora"
+      }
+    },
+    {
+      "displayName": "Caja Rural del Sur",
+      "id": "cajaruraldelsur-9697fd",
+      "locationSet": {
+        "include": [
+          "es-ca.geojson",
+          "es-hu.geojson",
+          "es-se.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Caja Rural del Sur",
+        "brand:wikidata": "Q118719995",
+        "name": "Caja Rural del Sur"
       }
     },
     {
@@ -4993,9 +5048,8 @@
     },
     {
       "displayName": "Cajasiete",
-      "locationSet": {
-        "include": ["ic"]
-      },
+      "id": "cajasiete-aef1bf",
+      "locationSet": {"include": ["ic"]},
       "tags": {
         "amenity": "bank",
         "brand": "Cajasiete",
@@ -5016,15 +5070,20 @@
     },
     {
       "displayName": "Cajaviva. Caja Rural de Burgos, Fuentepelayo, Segovia y Castelldans",
+      "id": "cajaviva-5e6916",
       "locationSet": {
-        "include": ["ES-BU.geojson", "ES-P.geojson", "ES-SO.geojson"]
+        "include": [
+          "es-bu.geojson",
+          "es-p.geojson",
+          "es-so.geojson"
+        ]
       },
       "tags": {
         "amenity": "bank",
         "brand": "Cajaviva",
         "brand:wikidata": "Q139055477",
-        "official_name": "Cajaviva. Caja Rural de Burgos, Fuentepelayo, Segovia y Castelldans",
-        "name": "Cajaviva"
+        "name": "Cajaviva",
+        "official_name": "Cajaviva. Caja Rural de Burgos, Fuentepelayo, Segovia y Castelldans"
       }
     },
     {
@@ -6814,18 +6873,6 @@
       }
     },
     {
-      "displayName": "Eurocaja Rural",
-      "locationSet": {
-        "include": ["es"]
-      },
-      "tags": {
-        "amenity": "bank",
-        "brand": "Eurocaja Rural",
-        "brand:wikidata": "Q57496866",
-        "name": "Eurocaja Rural"
-      }
-    },
-    {
       "displayName": "Eurobank (Србија)",
       "id": "eurobank-e9ea45",
       "locationSet": {"include": ["rs"]},
@@ -6861,6 +6908,17 @@
         "brand:wikidata": "Q806175",
         "name": "EuroBic",
         "official_name": "Banco BIC Português"
+      }
+    },
+    {
+      "displayName": "Eurocaja Rural",
+      "id": "eurocajarural-ce59ab",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Eurocaja Rural",
+        "brand:wikidata": "Q57496866",
+        "name": "Eurocaja Rural"
       }
     },
     {
@@ -7409,6 +7467,20 @@
       }
     },
     {
+      "displayName": "First Hawaiian Bank",
+      "id": "firsthawaiianbank-ae6ba2",
+      "locationSet": {
+        "include": ["gu", "mp", "us-hi"]
+      },
+      "matchNames": ["hawaiian first bank"],
+      "tags": {
+        "amenity": "bank",
+        "brand": "First Hawaiian Bank",
+        "brand:wikidata": "Q3072937",
+        "name": "First Hawaiian Bank"
+      }
+    },
+    {
       "displayName": "First Horizon Bank",
       "id": "firsthorizonbank-ea2e2d",
       "locationSet": {"include": ["us"]},
@@ -7935,18 +8007,6 @@
       }
     },
     {
-      "displayName": "Globalcaja",
-      "locationSet": {
-        "include": ["ES-AB.geojson", "ES-CR.geojson", "ES-CU.geojson", "ES-GU.geojson", "ES-TO.geojson", "ES-M.geojson", "ES-MU.geojson", "ES-A.geojson", "ES-CS.geojson", "ES-V.geojson", "ES-AL.geojson"]
-      },
-      "tags": {
-        "amenity": "bank",
-        "brand": "Globalcaja",
-        "brand:wikidata": "Q18223400",
-        "name": "Globalcaja"
-      }
-    },
-    {
       "displayName": "Global Credit Union",
       "id": "globalcreditunion-8159d3",
       "locationSet": {
@@ -7967,6 +8027,31 @@
         "brand": "Global Credit Union",
         "brand:wikidata": "Q4708627",
         "name": "Global Credit Union"
+      }
+    },
+    {
+      "displayName": "Globalcaja",
+      "id": "globalcaja-449301",
+      "locationSet": {
+        "include": [
+          "es-a.geojson",
+          "es-ab.geojson",
+          "es-al.geojson",
+          "es-cr.geojson",
+          "es-cs.geojson",
+          "es-cu.geojson",
+          "es-gu.geojson",
+          "es-m.geojson",
+          "es-mu.geojson",
+          "es-to.geojson",
+          "es-v.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Globalcaja",
+        "brand:wikidata": "Q18223400",
+        "name": "Globalcaja"
       }
     },
     {
@@ -8261,20 +8346,6 @@
         "brand:wikidata": "Q3532080",
         "name": "Hatton National Bank",
         "short_name": "HNB"
-      }
-    },
-    {
-      "displayName": "First Hawaiian Bank",
-      "id": "firsthawaiianbank-ae6ba2",
-      "locationSet": {
-        "include": ["gu", "mp", "us-hi"]
-      },
-      "matchNames": ["Hawaiian First Bank"],
-      "tags": {
-        "amenity": "bank",
-        "brand": "First Hawaiian Bank",
-        "brand:wikidata": "Q3072937",
-        "name": "First Hawaiian Bank"
       }
     },
     {
@@ -17033,7 +17104,7 @@
     },
     {
       "displayName": "საქართველოს ბანკი",
-      "id": "solo-293074",
+      "id": "bankofgeorgia-293074",
       "locationSet": {"include": ["ge"]},
       "tags": {
         "amenity": "bank",

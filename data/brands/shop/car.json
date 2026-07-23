@@ -13,26 +13,6 @@
   },
   "items": [
     {
-      "displayName": "Discovery",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Discovery",
-        "brand:wikidata": "Q140645228",
-        "name": "Discovery",
-        "shop": "car"
-      }
-    },
-    {
-      "displayName": "Defender",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Defender",
-        "brand:wikidata": "Q140645257",
-        "name": "Defender",
-        "shop": "car"
-      }
-    },
-    {
       "displayName": "AAA Auto",
       "id": "aaaauto-e524cd",
       "locationSet": {
@@ -394,6 +374,28 @@
         "brand:wikidata": "Q133262739",
         "name": "Das WeltAuto",
         "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Defender",
+      "id": "defender-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Defender",
+        "brand:wikidata": "Q140645257",
+        "name": "Defender",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Discovery",
+      "id": "discovery-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Discovery",
+        "brand:wikidata": "Q140645228",
+        "name": "Discovery",
         "shop": "car"
       }
     },
