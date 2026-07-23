@@ -4779,6 +4779,18 @@
       }
     },
     {
+      "displayName": "Mana Poke",
+      "id": "manapoke-ad49e6",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Mana Poke",
+        "brand:wikidata": "Q140672679",
+        "cuisine": "poke",
+        "name": "Mana Poke"
+      }
+    },
+    {
       "displayName": "Maple Street Biscuit Company",
       "id": "maplestreetbiscuitcompany-d344e2",
       "locationSet": {
